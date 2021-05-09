@@ -1,2 +1,2 @@
 # snake_game
-using RPi4 + sensor hat
+Using python to implement classic snake game on RPi + sensor hat.
